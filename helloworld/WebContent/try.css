@@ -1,0 +1,9 @@
+<html>
+<body>
+<form action="itsql.php" method="POST">
+Coursecode:<input type="text" name="cc"><br>
+Coursename:<input type="text" name="cn"><br>
+<button>submit</button>
+</form>
+</body>
+</html>
